@@ -1,9 +1,9 @@
-# Hi, I'm Shanil 👋
+# Hi, I'm Laksh 👋
 
-**Lead Frontend Developer** · E-commerce · Angular & TypeScript
+**Lead Frontend Developer** · Angular & TypeScript
 📍 Mauritius
 
-I build fast, accessible, and maintainable e-commerce frontends.
+I build fast, accessible, and maintainable frontends projects.
 Currently focused on Angular, component architecture, and design systems.
 
 ---
